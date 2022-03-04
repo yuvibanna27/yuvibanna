@@ -1,0 +1,11 @@
+.content{
+    min-height: 500px;
+    border-color: black;
+}
+.navbar{
+    background-attachment: fixed;
+}
+.footer{
+    margin: 0px;
+    padding: 0px;
+}
